@@ -17,4 +17,4 @@ It is integer valued 0 = no disease and 1 = disease.
 13-thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 14-The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 
-Ww work qith just 8 attributes and I drop rest of them.
+We work qith just 8 attributes and I drop rest of them.
