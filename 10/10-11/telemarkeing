@@ -1,1 +1,20 @@
+Data-Driven Approach to Predict the Success of Bank Telemarketing
+Input variables:
 
+Age (numeric)
+
+Job: career type (categorical: 'admin.', 'blue-collar', 'entrepreneur', 'housemaid', 'management', 'retired', 'self-employed', 'services', 'student', 'technician', 'unemployed')
+
+Marital_Status: marital status (categorical: 'divorced', 'married', 'single'; note: 'divorced' means divorced or widowed)
+
+Education: (categorical: 'PrimaryEducation', 'ProfessionalEducation', 'SecondaryEducation', 'TertiaryEducation')
+
+Default_Credit: has a credit in default? (binary: 'yes', 'no')
+
+Housing_Loan: has a home loan? (binary: 'yes', 'no')
+
+Personal_Loan: has a personal loan? (binary: 'yes', 'no')
+
+Output variable (desired target):
+
+Subscribed - has the client subscribed a long-term deposit? (binary: 'yes', 'no')
