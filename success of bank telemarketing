@@ -1,0 +1,23 @@
+this is the dataset for succsess of bank telemarketing(alpha bank) with some attributes and the output is subscribed which the person can get the long deposit or no?
+
+
+
+Input variables:
+
+1-Age (numeric)
+
+2-Job: career type (categorical: 'admin.', 'blue-collar', 'entrepreneur', 'housemaid', 'management', 'retired', 'self-employed', 'services', 'student', 'technician', 'unemployed')
+
+3-Marital_Status: marital status (categorical: 'divorced', 'married', 'single'; note: 'divorced' means divorced or widowed)
+
+4-Education: (categorical: 'PrimaryEducation', 'ProfessionalEducation', 'SecondaryEducation', 'TertiaryEducation')
+
+5-Default_Credit: has a credit in default? (binary: 'yes', 'no')
+
+6-Housing_Loan: has a home loan? (binary: 'yes', 'no')
+
+7-Personal_Loan: has a personal loan? (binary: 'yes', 'no')
+
+8-Output variable (desired target):
+
+9-Subscribed - has the client subscribed a long-term deposit? (binary: 'yes', 'no')
